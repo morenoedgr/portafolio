@@ -278,6 +278,7 @@ ul.social-top li a i {
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond|Work+Sans:700);
 * {
+  border-radius: 10%;
   font-display: fallback;
   color: #1d72c3;
   box-sizing: border-box;
