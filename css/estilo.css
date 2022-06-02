@@ -278,7 +278,6 @@ ul.social-top li a i {
 
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond|Work+Sans:700);
 * {
-  border-radius: 10%;
   font-display: fallback;
   color: #1d72c3;
   box-sizing: border-box;
@@ -455,6 +454,7 @@ nav.active ul {
   width: 100%;
 }
 .top-w .topw-img img {
+  border-radius: 10%;
   margin: 10px auto;
   width: 80%;
   border-radius: 20%;
