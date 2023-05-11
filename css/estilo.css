@@ -575,7 +575,7 @@ nav.active ul {
 }
 
 #work {
-  background: url(../images/work-bg.webp) fixed no-repeat top center;
+  background color: #1e1818db;
   background-size: cover;
   padding-top: 140px;
   padding-bottom: 140px;
@@ -603,7 +603,7 @@ nav.active ul {
   -moz-transform: rotate(0);
   -o-transform: rotate(0);
   -ms-transform: rotate(0);
-  transform: rotateX(90deg);
+  transform: rotateX(30deg);
 }
 #work .work-item .work-icon i {
   margin: auto;
@@ -622,7 +622,7 @@ nav.active ul {
   text-transform: uppercase;
   text-align: center;
   font-size: 30px;
-  color: #ffffff;
+  color: #3dacd9;
   font-weight: 800;
   margin-top: 25px;
 }
