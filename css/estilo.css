@@ -564,6 +564,14 @@ nav.active ul {
   font-weight: 800;
   margin-top: 25px;
 }
+#clientes .container h3.clientes-title-sup-3 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 30px;
+  color: #2f4881;
+  font-weight: 800;
+  margin-top: 25px;
+}
 #clientes .clientes-item:hover .clientes-icon {
   background: #2f4881;
   color: #ffffff;
